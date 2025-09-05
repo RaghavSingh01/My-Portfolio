@@ -29,7 +29,9 @@ const About = () => {
                 'Fullstack Developer', 2000,
                 'Frontend Developer', 2000,
                 'Backend Developer', 2000,
-                'Coder', 2000,
+                'AI Enthusiast', 2000,
+                'Tech Enthusiast', 2000,
+                'Continuous Learner', 2000,
               ]}
               speed={50}
               wrapper="span"
