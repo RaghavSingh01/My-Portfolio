@@ -27,8 +27,8 @@ const About = () => {
             <TypeAnimation
               sequence={[
                 'Fullstack Developer', 2000,
-                'Front-End Developer', 2000,
-                'React.js Developer', 2000,
+                'Frontend Developer', 2000,
+                'Backend Developer', 2000,
                 'Coder', 2000,
               ]}
               speed={50}
