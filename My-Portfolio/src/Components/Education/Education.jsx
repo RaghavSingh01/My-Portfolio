@@ -28,13 +28,13 @@ const Education = () => {
             className="flex flex-col sm:flex-row items-center mb-16 relative"
           >
             {/* Timeline Circle */}
-            <div className="absolute left-1/2 transform -translate-x-1/2 bg-gray-400 border-4 border-[#8245ec] w-12 h-12 sm:w-16 sm:h-16 rounded-full flex justify-center items-center z-10">
+            {/* <div className="absolute left-1/2 transform -translate-x-1/2 bg-gray-400 border-4 border-[#8245ec] w-12 h-12 sm:w-16 sm:h-16 rounded-full flex justify-center items-center z-10">
               <img
                 src={edu.img}
                 alt={edu.school}
                 className="w-full h-full object-cover rounded-full"
               />
-            </div>
+            </div> */}
 
             {/* Content Section */}
             <div

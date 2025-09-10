@@ -51,7 +51,8 @@ const About = () => {
           </p>
 
           {/** Resume button */}
-          <a href="https://drive.google.com/drive/folders/1m-v3ipJZ5I3nqcimoMUPpMq44sCeBPqT?usp=sharing"
+          <a href="https://drive.google.com/uc?export=download&id=1PopBztNSQf42MW-4qV2vaYzPH1PX9i82"
+          download="Raghav_Singh_Resume.pdf"
           target='_blank'
           rel='noopener noreferrer'
           className='inline-block text-white py-3 px-8 rounded-full 
