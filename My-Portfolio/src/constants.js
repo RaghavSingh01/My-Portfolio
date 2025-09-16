@@ -151,7 +151,7 @@ export const SkillsInfo = [
       id: 1,
       title: "MarkIt!",
       description:
-        "This project is an online Markdown editor built with React.js that allows users to write and preview Markdown files in real-time. It provides a simple and intuitive interface for creating and formatting Markdown content efficiently, showcasing skills in front-end development and user experience design.",
+        "This project is an online Markdown editor built with React.js that allows users to write and preview Markdown files in real-time. It provides a simple and intuitive interface for creating and formatting Markdown content efficiently, showcasing skills in front-end development and user experience design. It also provides information on how to use it for beginers.",
       image: Markit,
       tags: ["React JS", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/RaghavSingh01/MarkIT",
